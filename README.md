@@ -1,5 +1,4 @@
-### Contenido
-Instrucciones de instalación y configuración del workspace y de los proyectos.
-1. [Configuración del entorno de trabajo](instalacion-configuracion-VSCode.md)
-2. [Probar el correcto funcionamiento de los proyectos](pruebas-proyectos.md)
-3. [Slides de la parte teórica del taller](Slides-front-workshop.pdf)
+# tarugoconf3-bootstrap-example
+Contiene el Theme de Bootstrap con el que vamos a aprender a customizar.
+
+Enlace al theme: https://startbootstrap.com/template-overviews/freelancer/
