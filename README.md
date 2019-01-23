@@ -4,17 +4,15 @@ Este repositorio alberga el codigo fuente de los ejemplos hechos en el taller "F
 
 Contenido:
 ----------------------
-
-### Rama front-workshop-crafter-web
-Contiene todos los archivos de la web que vamos a hacer progresivamente (steps) durante el taller.
+### Rama front-workshop-docs
+Contiene distinta documentación e instrucciones:
+- Instrucciones de instalación del entorno de trabajo.
 
 ### Rama front-workshop-bootstrap-example
 Contiene todos los archivos del theme de Bootstrap (https://startbootstrap.com/template-overviews/freelancer/) que utilizaremos para aprender a customizarlo.
 
-### Rama front-workshop-docs
-Contiene distinta documentación e instrucciones:
-- Instrucciones de instalación del entorno de trabajo
-
+### Rama front-workshop-crafter-web
+Contiene todos los archivos de la web que vamos a hacer progresivamente (steps) durante el taller.
 
 Contacto:
 ----------------------
