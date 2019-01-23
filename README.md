@@ -7,6 +7,7 @@ Contenido:
 ### Rama front-workshop-docs
 Contiene distinta documentación e instrucciones:
 - Instrucciones de instalación del entorno de trabajo.
+- Slides del taller una vez terminado.
 
 ### Rama front-workshop-bootstrap-example
 Contiene todos los archivos del theme de Bootstrap (https://startbootstrap.com/template-overviews/freelancer/) que utilizaremos para aprender a customizarlo.
