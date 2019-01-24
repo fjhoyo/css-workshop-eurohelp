@@ -110,7 +110,7 @@ h3 {
 .menu {
 	background: $blue;
     position: fixed;
-	top: 4rem;
+	top: $header-height;
 	left: 0;
     width: 100%;
     text-align: center;

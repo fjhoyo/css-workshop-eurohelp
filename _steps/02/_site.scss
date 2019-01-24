@@ -97,7 +97,7 @@ h3 {
 .menu {
 	background: $blue;
     position: fixed;
-	top: 4rem;
+	top: $header-height;
 	left: 0;
     width: 100%;
     text-align: center;
@@ -263,7 +263,7 @@ h3 {
 .footer--main {
 	background-color: $blue-dark;
 	color: white;
-	height: 5rem;
+	height: $footer-height;
 
 	/*** PRÁCTICA STEP 1:
 	CENTRAR EN HORIZONTAL Y VERTICAL
