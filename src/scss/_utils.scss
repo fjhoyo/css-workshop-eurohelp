@@ -30,8 +30,12 @@ $green: #4CDEC4;
 $orange:#FDC468;
 $blue-dark: #4d5364;
 
+//Text
+$text-color: $blue-dark;
+
 /* SIZES */
 $header-height: 5rem;
+$footer-height: $header-height;
 
 /*------------------------------------*\
     $MIXINS
