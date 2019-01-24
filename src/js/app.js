@@ -11,40 +11,10 @@ var controlMobileMenu = function () {
     }
 };
 
-/* SMOOTH SCROLLING ANCHOR NAVIGATION */
-var animateScroll = function (anchor, time) {
-    var elem = document.scrollingElement || document.documentElement,
-        style = "scrollTop",
-        unit = "",
-        from = window.scrollY,
-        prop = true,
-        to = document.getElementById(anchor).offsetTop;
-
-    if (!elem) {
-        return;
-    }
-    var start = new Date().getTime(),
-        timer = setInterval(function () {
-            var step = Math.min(1, (new Date().getTime() - start) / time);
-            if (prop) {
-                elem[style] = (from + step * (to - from)) + unit;
-            } else {
-                elem.style[style] = (from + step * (to - from)) + unit;
-            }
-            if (step === 1) {
-                clearInterval(timer);
-            }
-        }, 25);
-    if (prop) {
-        elem[style] = from + unit;
-    } else {
-        elem.style[style] = from + unit;
-    }
-};
-
 /* NAVIGATION MOBILE AND DESKTOP */
 var navigation = function (e) {
-    var responsiveMenuChange = 600; //Same value of media query change from mobile to desktop menu
+    //Same value of media query change from mobile to desktop menu
+    var responsiveMenuChange = 600;
     if (e.target.matches('a')) {
         //Menu items mobile behavior
         if (window.innerWidth < responsiveMenuChange) {
