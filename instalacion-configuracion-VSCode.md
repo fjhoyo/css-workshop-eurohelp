@@ -21,7 +21,7 @@ Si no lo tenéis instalado, en cuanto lo abrís podéis elegir que os "copie" lo
 
 	![Instalación de Settings Sync plugin](images/instalacion-sync.png)
 
-3. 	Una vez instalada, donde ponía “Install” ahora pone **“Reload”**, le doy para que se reinicie VSCode. Si no pone "reload" no os preocupéis, VSCode en una de sus últimas actualizaciones creo que ha modificado eso para que no haya que reiniciar el editor cada vez que instalamos una extensión.
+3. 	Una vez instalada, donde ponía “Install” ahora pone **“Reload”**, le doy para que se reinicie VSCode. (Si no pone "reload" no os preocupéis, VSCode en una de sus últimas actualizaciones creo que ha modificado eso para que no haya que reiniciar el editor cada vez que instalamos una extensión).
 
 4. 	**Abro la command palette (ctrl+shift+P windows o cmd+shift+p Mac) y ejecuto** (escribo las primeras letras):
 
