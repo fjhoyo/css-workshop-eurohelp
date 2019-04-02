@@ -11,7 +11,7 @@ Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que 
 
 	- Hay que darle un momento, en Windows a mí me tarda un poco, en Mac es casi inmediato al abrir el proyecto. NO QUIERO DECIR NADA CON ESTO... :_)
 	- Si no reconoce el repositorio, pinchad en el explorador de git (4) a ver si así espabila.
-	- Si no se activa el live server, poneos encima del index.html -> botón derecho -> "Open with live server".
+	- Si no se activa el live server, poneos encima del index.html -> botón derecho -> "Open with live server".  
 
 	![Prueba bootstrap example](images/prueba-bootstrap.png)
 
