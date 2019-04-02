@@ -1,7 +1,7 @@
-## **Probando el entorno de la rama FRONT-WORKSHOP-BOOTSTRAP-EXAMPLE**
+## **Probando el entorno de la rama CSS-WORKSHOP-BOOTSTRAP-EXAMPLE**
 Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que funciona todo bien.
 
-1. 	**Ver si se activa el visor de git (1), el minify (2), y el live server (3)**, salen en la barra de estado.
+### 1. **Ver si se activa el visor de git (1), el minify (2), y el live server (3)**, salen en la barra de estado.
 
 	Pulsad en "Go Live" (3) y debería abrirse el proyecto en el navegador.
 
@@ -15,13 +15,12 @@ Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que 
 
 	![Prueba bootstrap example](images/prueba-bootstrap.png)
 
-
 	Si nada de esto funciona, haced algún plan para el día del taller y no vengáis. :-P
 
 	Es broma, enviadme un mail para solucionar todo antes del taller y no perder allí tiempo.
 
 
-2. 	**Probar minify**
+### 2. **Probar minify**
 
 	Os metéis en el directorio **"css"**, abrís **"custom.css"** (1), cambiáis el color del background (2) y **verificáis que os minifica el archivo (custom.min.css) (3) en la misma carpeta**.
 
@@ -30,25 +29,23 @@ Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que 
 	![Prueba bootstrap example](images/prueba-bootstrap-2.png)
 
 
-
-
-## **Probando el entorno de la rama FRONT-WORKSHOP-CRAFTER-WEB**
+## **Probando el entorno de la rama CSS-WORKSHOP-CRAFTER-WEB**
 Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que funciona todo bien.
 
-1. 	**Ver si se activa todo lo anterior (git, minify, live server) Y ADEMÁS EL COMPILADOR DE SASS**
+### 1. **Ver si se activa todo lo anterior (git, minify, live server) Y ADEMÁS EL COMPILADOR DE SASS**
 
 	Tiene que salir en la barra de estado **"Watch Sass"**.
 	![Prueba web crafter](images/watch.png)
 
-2. 	**Poner en marcha el compilador Sass**
+### 2. **Poner en marcha el compilador Sass**
 
 	Arranco el compilador pulsando donde pone **“Watch Sass”** cambiará a **“Watching…”** y en consola nos dice que está escuchando.(1)
 
-3. 	**Probar el compilador Sass**
+### 3. **Probar el compilador Sass**
 
 	Me voy a **steps/01/_site.scss** (2), lo abro, pongo arriba del todo cualquier cosa en css (3), guardo, y **me aseguro que me está modificando styles.min.css dentro de dist/css/** (4)
 
-4. 	**BORRO el código que he puesto de prueba** para que no nos quede ahí para el taller.
+### 4. **BORRO el código que he puesto de prueba** para que no nos quede ahí para el taller.
 
 	![Prueba web crafter](images/prueba-web.png)
 
