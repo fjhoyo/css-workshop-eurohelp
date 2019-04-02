@@ -25,7 +25,9 @@ Si no lo tenéis instalado, en cuanto lo abrís podéis elegir que os "copie" lo
 
 4. 	**Abro la command palette (ctrl+shift+P windows o cmd+shift+p Mac) y ejecuto** (escribo las primeras letras):
 
-	- **Sync : Advance Options > Download Settings from public Gist**  (-> Enter)
+	- **Sync : Advance Options** ->
+	- **Sync : Download Settings from public Gist** -> Os sale este aviso: "Sync : Settings Sync will not ask for GitHub Token from now on." Solo nos está diciendo que como es un gist público no nos va a pedir token.  
+	**Si se nos cierra la command palette volvemos a abrirla y seguimos.** 
 	- **Sync : Download Settings** ->
 	- Os pide el Gist ID, meted esto: **13c649c74cd66477ea2efdbe4ec741c9**
 
