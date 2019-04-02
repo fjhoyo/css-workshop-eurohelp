@@ -5,6 +5,6 @@ Instrucciones de instalación y configuración del workspace y de los proyectos.
 
 2. [Probar el correcto funcionamiento de los proyectos](pruebas-proyectos.md)
 
-3. [Slides de la parte teórica del taller](Slides-front-workshop.pdf)
+3. [Slides de la parte teórica del taller](slides-front-workshop.pdf)
 
-4. [Imágenes para el ejercicio POSITION](https://bitbucket.org/diana_aceves_/css-workshop/src/front-workshop-docs/POSITION/)
+4. [Imágenes para el ejercicio POSITION](https://bitbucket.org/diana_aceves_/css-workshop/src/css-workshop-docs/POSITION/)
