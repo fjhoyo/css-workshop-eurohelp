@@ -197,6 +197,7 @@ h3 {
 		background-position: center;
 		height: 10rem;
 		width: 100%;
+		margin-bottom: 1rem;
 	}
 }
 
@@ -206,6 +207,7 @@ $colors: (#37394A, #EC841C, #004C67, #4BC2C4, #009DE0, #212121, #4F137C, #2A8EF7
 	.sponsors-#{$i} {
 		background-image: url("../../img/sponsors/logo-#{$i}.svg");
 		background-color: #f4f5f7;
+		//background-color: nth($colors, $i);
 	}
 } */
 

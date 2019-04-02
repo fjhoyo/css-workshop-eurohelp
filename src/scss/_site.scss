@@ -262,6 +262,7 @@ h3 {
 		background-position: center;
 		height: 10rem;
 		width: 100%;
+		margin-bottom: 1rem;
 	}
 }
 
@@ -378,6 +379,7 @@ RESPONSIVE:
 		&__item {
 			height: auto;
 			width: auto;
+			margin-bottom: 0;
 		}
 	}
 	.sponsors-1{

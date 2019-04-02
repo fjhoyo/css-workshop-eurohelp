@@ -109,11 +109,11 @@ h3 {
 
 .menu {
 	background: $blue;
-    position: fixed;
+  position: fixed;
 	top: $header-height;
 	left: 0;
-    width: 100%;
-    text-align: center;
+  width: 100%;
+  text-align: center;
 	height: 100vh;
 	padding-top: 3em;
 	list-style: none;
@@ -139,9 +139,6 @@ h3 {
 		font-size: 1.2em;
 	}
 	a {
-		// - Los links los pongo como "block" para que puedan tener padding vertical y así
-		//	 aumentar la zona activa del enlace.
-		// - Además, el padding se lo doy al enlace, en vez de a los "li" por eso mismo.
 		display: block;
 		padding: 1.5em 0;
 		color: white;
@@ -270,20 +267,18 @@ h3 {
 		background-position: center;
 		height: 10rem;
 		width: 100%;
+		margin-bottom: 1rem;
 	}
 }
 
-$colors: (#37394A, #EC841C, #004C67, #4BC2C4, #009DE0, #212121, #4F137C, #2A8EF7, #02497E, #0F159F);
+//$colors: (#37394A, #EC841C, #004C67, #4BC2C4, #009DE0, #212121, #4F137C, #2A8EF7, #02497E, #0F159F);
 
 @for $i from 1 through 10 {
 	.sponsors-#{$i} {
 		background-image: url("../../img/sponsors/logo-#{$i}.svg");
-		background-color: nth($colors, $i);
+		background-color: #f4f5f7;
+		//background-color: nth($colors, $i);
 	}
-}
-
-.sponsors-1 {
-	background-size: 60% auto;
 }
 
 //FOOTER
