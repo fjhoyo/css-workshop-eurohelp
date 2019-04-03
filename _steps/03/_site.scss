@@ -15,6 +15,7 @@ body {
 	background-color: white;
 	font-weight: $light;
 	color: $blue-dark;
+	overflow-x: hidden; //Prevents horizontal scrolling caused by the off-canvas menu
 
 	/*** PRÁCTICA STEP 1:
 	FOOTER SIEMPRE ABAJO:
