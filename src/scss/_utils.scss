@@ -1,5 +1,5 @@
 /*-------------------------------------------------*\
-    $SPECIAL FUNCTIONS (Before VARS to use them)
+    $FUNCTIONS (Before VARS to use them)
 \*-------------------------------------------------*/
 
 $base-fontsize : 16;
@@ -13,6 +13,11 @@ $base-fontsize : 16;
   @return ($px / $context) * 1em;
 }
 
+$elements: overbody, headfooter;
+
+@function z($element) {
+  @return index($elements, $element);
+}
 
 /*------------------------------------*\
     $VARIABLES
@@ -47,4 +52,10 @@ $footer-height: $header-height;
   margin-right:auto;
   max-width: $max-width;
   width: $width;
+}
+
+$elements: overbody, headfooter, lightbox, top, spinner;
+
+@function z($element) {
+  @return index($elements, $element);
 }
