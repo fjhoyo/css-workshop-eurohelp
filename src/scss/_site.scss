@@ -276,7 +276,7 @@ h3 {
 @for $i from 1 through 10 {
 	.sponsors-#{$i} {
 		background-image: url("../../img/sponsors/logo-#{$i}.svg");
-		background-color: #f4f5f7;
+		background-color: $sponsors-bg;
 		//background-color: nth($colors, $i);
 	}
 }
