@@ -1,5 +1,5 @@
 /*********** PROJECT CUSTOM RESETS ***********/
-button{
+button {
 	border: none;
 	appearance: none;
 	background-color: transparent;
@@ -78,10 +78,10 @@ h3 {
 
 	transform: translateX(100%);
 	transition: transform .6s;
-	&.is-visible{
+	&.is-visible {
 		transform: translateX(0)
 	}
-	&__button{
+	&__button {
 		text-transform: uppercase;
 		font-weight: bold;
 		padding: 1em;
@@ -199,7 +199,7 @@ h3 {
 		width: 100%;
 	}
 }
-.sponsors-5{
+.sponsors-5 {
 	background-size: 50% auto;
 }
 */

@@ -1,5 +1,5 @@
 /*********** PROJECT CUSTOM RESETS ***********/
-button{
+button {
 	border: none;
 	appearance: none;
 	background-color: transparent;
@@ -15,7 +15,6 @@ body {
 	background-color: white;
 	font-weight: $light;
 	color: $blue-dark;
-	overflow-x: hidden; //Prevents horizontal scrolling caused by the off-canvas menu
 
 	/*** PRÁCTICA STEP 1:
 	FOOTER SIEMPRE ABAJO:
@@ -27,6 +26,10 @@ body {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
+
+	&.no-scroll {
+		overflow: hidden;
+	}
 }
 
 h1,
@@ -121,10 +124,10 @@ h3 {
 
 	transform: translateX(100%);
 	transition: transform .6s;
-	&.is-visible{
+	&.is-visible {
 		transform: translateX(0)
 	}
-	&__button{
+	&__button {
 		text-transform: uppercase;
 		font-weight: bold;
 		padding: 1em;
@@ -270,7 +273,7 @@ h3 {
 		width: 100%;
 	}
 }
-.sponsors-5{
+.sponsors-5 {
 	background-size: 50% auto;
 }
 
@@ -325,7 +328,7 @@ RESPONSIVE: MEDIA QUERIES MOBILE FIRST MIN-WIDTH
 		top: 0;
 		left: 1em;
 
-		&__button{
+		&__button {
 			display: none;
 		}
 		&__item {
@@ -348,7 +351,7 @@ RESPONSIVE: MEDIA QUERIES MOBILE FIRST MIN-WIDTH
 			***/
 			display: flex;
 			align-items: center;
-			&:nth-child(2n){
+			&:nth-child(2n) {
 				flex-direction: row-reverse;
 				text-align: right;
 				.talks__icon{
