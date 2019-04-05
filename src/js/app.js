@@ -1,13 +1,16 @@
 /* MOBILE MENU */
 var menuButton = document.getElementById('js-menu-button'),
-    menu = document.getElementById('js-menu');
+    menu = document.getElementById('js-menu'),
+    body = document.body;
 
 /* OPEN-CLOSE MOBILE MENU */
 var controlMobileMenu = function () {
     if (menu.classList.contains('is-visible')) {
         menu.classList.remove('is-visible');
+        body.classList.remove('no-scroll');
     } else {
         menu.classList.add('is-visible');
+        body.classList.add('no-scroll');
     }
 };
 
