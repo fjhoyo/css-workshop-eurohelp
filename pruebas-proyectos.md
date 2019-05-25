@@ -1,5 +1,5 @@
 ## **Probando el entorno de la rama CSS-WORKSHOP-BOOTSTRAP-EXAMPLE**
-Abrimos el proyecto desde VS Code. Si teneis git, podemos cambiar de rama directamente dentro del editor. Si no, abrimos el proyecto **"CSS-WORKSHOP-BOOTSTRAP-EXAMPLE"**  
+Abrimos el proyecto desde VS Code. Si teneis git, podemos cambiar de rama directamente dentro del editor. Si no, abrimos el proyecto **"CSS-WORKSHOP-BOOTSTRAP-EXAMPLE"**.  
 (Las partes en las que me refiero a cosas de Git, evidentemente solo deben tenerlas en cuenta los que tengáis Git).  
 Hacemos lo siguiente para probar si está todo bien:  
 
