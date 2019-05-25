@@ -1,7 +1,8 @@
 ## **ENTORNO DE TRABAJO CON VISUAL STUDIO CODE**
 
 ### **Consideraciones previas:**
-Os he preparado un gist con la configuración que yo tengo y las extensiones que necesitamos para el taller. Si ya tenéis instalado VSCode, entiendo que ya sabéis como funciona, así que echad un vistazo al gist antes de instalarlo por si mis settings se cargan alguna que tengáis ya vosotros.
+1. DEBÉIS TENER INSTALADO GIT en vuestro equipo y clonado este repositorio. Parece evidente pero mejor decirlo. :-)
+2. Os he preparado un gist con la configuración que yo tengo y las extensiones que necesitamos para el taller. Si ya tenéis instalado VSCode, entiendo que ya sabéis como funciona, así que echad un vistazo al gist antes de instalarlo por si mis settings se cargan alguna que tengáis ya vosotros.
 
 El link -> https://gist.github.com/dianaaceves/13c649c74cd66477ea2efdbe4ec741c9
 
