@@ -5,8 +5,8 @@ Este repositorio alberga el codigo fuente utilizado en el "Taller de CSS para pr
 Contenido:
 ----------------------
 ### Rama css-workshop-docs
-Contiene distinta documentaciÃ³n e instrucciones:
-- Instrucciones de instalaciÃ³n del entorno de trabajo.
+Contiene distinta documentación e instrucciones:  
+- Instrucciones de instalación del entorno de trabajo.  
 - Slides del taller una vez terminado.
 
 ### Rama css-workshop-bootstrap-example
