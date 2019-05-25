@@ -9,4 +9,4 @@ Instrucciones de instalación y configuración del workspace y de los proyectos.
 
 4. [Imágenes para el ejercicio POSITION](https://bitbucket.org/diana_aceves_/css-workshop/src/css-workshop-docs/POSITION)
 
-4. [Capturas de las preguntas de Kahoot](https://bitbucket.org/diana_aceves_/css-workshop/src/css-workshop-docs/KAHOOT)
+4. [Capturas de las preguntas de Kahoot](https://bitbucket.org/diana_aceves_/css-workshop/src/css-workshop-docs/KAHOOT) (Se subirán después del taller)
