@@ -12,9 +12,9 @@ Hacéis lo siguiente para asegurarnos que funciona todo bien.
 
 	- Hay que darle un momento, en Windows a mí me tarda un poco, en Mac es casi inmediato al abrir el proyecto. NO QUIERO DECIR NADA CON ESTO... :_)
 	- Si no reconoce el repositorio, pinchad en el explorador de git (4) a ver si así espabila.
-	- Si no se activa el live server, poneos encima del index.html -> botón derecho -> "Open with live server".  
+	- Si no se activa el live server, poneos encima del index.html -> botón derecho -> "Open with live server".
 
-	![Prueba bootstrap example](images/prueba-bootstrap.png)
+	![Prueba bootstrap example](images/prueba-bootstrap.jpg)
 
 
 	Si nada de esto funciona, haced algún plan para el día del taller y no vengáis. :-P
@@ -28,7 +28,7 @@ Hacéis lo siguiente para asegurarnos que funciona todo bien.
 
 	Ambos archivos deberían aparecer como **"modificados"** (3).
 
-	![Prueba bootstrap example](images/prueba-bootstrap-2.png)
+	![Prueba bootstrap example](images/prueba-bootstrap-2.jpg)
 
 
 
@@ -51,5 +51,5 @@ Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que 
 
 4. 	**BORRO el código que he puesto de prueba** para que no nos quede ahí para el taller.
 
-	![Prueba web crafter](images/prueba-web.png)
+	![Prueba web crafter](images/prueba-web.jpg)
 
