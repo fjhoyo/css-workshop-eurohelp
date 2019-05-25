@@ -1,42 +1,31 @@
-## **ENTORNO DE TRABAJO CON VISUAL STUDIO CODE**
-
-### **Consideraciones previas:**
-1. DEBÉIS TENER INSTALADO GIT en vuestro equipo y clonado este repositorio. Parece evidente pero mejor decirlo. :-)
-2. Os he preparado un gist con la configuración que yo tengo y las extensiones que necesitamos para el taller. Si ya tenéis instalado VSCode, entiendo que ya sabéis como funciona, así que echad un vistazo al gist antes de instalarlo por si mis settings se cargan alguna que tengáis ya vosotros.
-
-El link -> https://gist.github.com/dianaaceves/13c649c74cd66477ea2efdbe4ec741c9
-
-**Las extensiones SÍ QUE LAS NECESITAMOS** esas tenéis que instalarlas, porfi.
-
-Si no lo tenéis instalado, en cuanto lo abrís podéis elegir que os "copie" los settings y keybindings de vuestro editor favorito. (Mola!!!)
-
-![Settings otros editores](images/settings-editores.png)
+## **ENTORNO DE TRABAJO CON VISUAL STUDIO CODE**  
+Trabajaremos con Visual Studio Code. Si ya lo tenéis instalado, solo hace falta que os instaléis las extensiones (punto 2.)
 
 ### **Instrucciones:**
 1. 	**Descarga e instalación de VS Code:**
-	https://code.visualstudio.com/Download
+	Enlace de descarga: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)  
+	
+	Una cosa muy interesante de VS Code es que, al abrirlo por primera vez, os permite copiar la configuración de varios editores, algo que puede acelerar bastante vuestro ritmo de trabajo si estáis acostumbrados a trabajar con alguno de ellos.  
+	
+	![Settings otros editores](images/settings-editores.png)
 
-2. 	**Instalación de la extensión Settings Sync:**
+2. 	**Instalación de las extensiones:**
 
-    Entro en la parte de “Extensiones” (1), escribo en la caja de búsqueda “Sync” (2), la selecciono (3) y le doy a “Install” (4).
+	Las extensiones que necesitamos son las siguientes:  
+		- Sass (Robin Bentley)
+		- Ash Scss Snippets
+		- eCSStractor for VSCode
+		- Live Sass Compiler
+		- Live Server
+		
+    Entro en la parte de “Extensiones” (1) y voy escribiendo los nombres de las extensiones necesarias en la caja de búsqueda (2), la selecciono (3) y le doy a “Install” (4).
 
-	![Instalación de Settings Sync plugin](images/instalacion-sync.png)
+	![Instalación extensiones](images/instalacion-extensiones.png)
 
-3. 	Una vez instalada, donde ponía “Install” ahora pone **“Reload”**, le doy para que se reinicie VSCode. (Si no pone "reload" no os preocupéis, VSCode en una de sus últimas actualizaciones creo que ha modificado eso para que no haya que reiniciar el editor cada vez que instalamos una extensión).
+3. 	Una vez instalada, donde ponía “Install” ahora pone **“Installed”**. También puede poner **“Reload”**, si es así, le damos para reiniciar VS Code.
 
-4. 	**Abro la command palette (ctrl+shift+P windows o cmd+shift+p Mac) y ejecuto** (escribo las primeras letras):
-
-	- **Sync : Advance Options** ->
-	- **Sync : Download Settings from public Gist** -> Os sale este aviso: "Sync : Settings Sync will not ask for GitHub Token from now on." Solo nos está diciendo que como es un gist público no nos va a pedir token.  
-	**Si se nos cierra la command palette volvemos a abrirla y seguimos.** 
-	- **Sync : Download Settings** ->
-	- Os pide el Gist ID, meted esto: **13c649c74cd66477ea2efdbe4ec741c9**
-
-	Comenzará a descargarse la configuración. Una vez terminado el proceso reinciáis de nuevo
-	VSCode y ya deberíais tener tanto los settings como las extensiones.
-
-5. En la caja de búsqueda de la parte de extensiones escribís: **@installed** y eso os
-	mostrará las extensiones que tenéis instaladas. Deberían ser estas:
+5.  Cuando hayáis instalado todas, en la caja de búsqueda escribid: **@installed** y eso os mostrará las extensiones que tenéis instaladas. Confirmad que son todas las que os puse arriba.  
+	(No os fijéis en las que salen en la imagen, fijaos en la lista que os puse antes).
 
 	![Extensiones instaladas](images/extensiones-instaladas.png)
 
