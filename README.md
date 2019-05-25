@@ -7,6 +7,6 @@ Instrucciones de instalación y configuración del workspace y de los proyectos.
 
 3. [Slides de la parte teórica del taller](slides-css-workshop.pdf) (Se subirán después del taller)
 
-4. [Imágenes para el ejercicio POSITION](https://github.com/dianaaceves/css-workshop/tree/css-workshop-docs/POSITION)
+4. [Imágenes para el ejercicio POSITION](https://bitbucket.org/diana_aceves_/css-workshop/src/css-workshop-docs/POSITION)
 
-4. [Capturas de las preguntas de Kahoot](https://github.com/dianaaceves/css-workshop/tree/css-workshop-docs/KAHOOT)
+4. [Capturas de las preguntas de Kahoot](https://bitbucket.org/diana_aceves_/css-workshop/src/css-workshop-docs/KAHOOT) (Se subirán después del taller)

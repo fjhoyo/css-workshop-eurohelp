@@ -9,23 +9,24 @@ Hacemos lo siguiente para probar si está todo bien:
 	Pulsad en "Go Live" (2) y debería abrirse el proyecto en el navegador.
 
 	(Nota: el servidor está configurado en el puerto 3001, si lo tenéis ocupado con otra cosa tenéis que cambiarlo en los user settings, si no sabéis, me lo decís).
-
+	
 	No me sale, ¿qué hago?:
 
 	- Hay que darle un momento, en Windows a mí me tarda un poco, en Mac es casi inmediato al abrir el proyecto. NO QUIERO DECIR NADA CON ESTO... :_)
 	- Si no reconoce el repositorio, pinchad en el explorador de git (3) a ver si así espabila.
 	- Si no se activa el live server, poneos encima del index.html -> botón derecho -> "Open with live server".
-
+	
+	Si nada de esto funciona, haced algún plan para el día del taller y no vengáis. :-P
+	
+	Es broma, enviadme un mail para solucionar todo antes del taller y no perder allí tiempo.  
+	
+	
+	
 	![Prueba bootstrap example](images/prueba-bootstrap.jpg)
 
 
-	Si nada de esto funciona, haced algún plan para el día del taller y no vengáis. :-P
-
-	Es broma, enviadme un mail para solucionar todo antes del taller y no perder allí tiempo.
-
-
 ## **Probando el entorno de la rama CSS-WORKSHOP-CRAFTER-WEB**
-Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que funciona todo bien.
+Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que funciona todo bien. (Si no tenéis git, abrís el proyecto correspondiente).
 
 1. 	Ver si se activa todo lo anterior (git, live server) **Y ADEMÁS EL COMPILADOR DE SASS**
 
