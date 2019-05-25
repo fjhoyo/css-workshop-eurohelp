@@ -1,17 +1,19 @@
 ## **Probando el entorno de la rama CSS-WORKSHOP-BOOTSTRAP-EXAMPLE**
-Abrimos el proyecto desde VSCode y podemos entrar en esa rama directamente desde el editor.
-Hacéis lo siguiente para asegurarnos que funciona todo bien.
+Abrimos el proyecto desde VS Code. Si teneis git, podemos cambiar de rama directamente dentro del editor. Si no, abrimos el proyecto **"CSS-WORKSHOP-BOOTSTRAP-EXAMPLE"**.  
+(Las partes en las que me refiero a cosas de Git, evidentemente solo deben tenerlas en cuenta los que tengáis Git).
 
-1. 	**Ver si se activa el visor de git (1), el minify (2), y el live server (3)**, salen en la barra de estado.
+Hacemos lo siguiente para probar si está todo bien:  
 
-	Pulsad en "Go Live" (3) y debería abrirse el proyecto en el navegador.
+1. 	**Ver si se activa el visor de git (1) y el live server (2)**, salen en la barra de estado.
+
+	Pulsad en "Go Live" (2) y debería abrirse el proyecto en el navegador.
 
 	(Nota: el servidor está configurado en el puerto 3001, si lo tenéis ocupado con otra cosa tenéis que cambiarlo en los user settings, si no sabéis, me lo decís).
 
 	No me sale, ¿qué hago?:
 
 	- Hay que darle un momento, en Windows a mí me tarda un poco, en Mac es casi inmediato al abrir el proyecto. NO QUIERO DECIR NADA CON ESTO... :_)
-	- Si no reconoce el repositorio, pinchad en el explorador de git (4) a ver si así espabila.
+	- Si no reconoce el repositorio, pinchad en el explorador de git (3) a ver si así espabila.
 	- Si no se activa el live server, poneos encima del index.html -> botón derecho -> "Open with live server".
 
 	![Prueba bootstrap example](images/prueba-bootstrap.jpg)
@@ -22,21 +24,10 @@ Hacéis lo siguiente para asegurarnos que funciona todo bien.
 	Es broma, enviadme un mail para solucionar todo antes del taller y no perder allí tiempo.
 
 
-2. 	**Probar minify**
-
-	Os metéis en el directorio **"css"**, abrís **"custom.css"** (1), cambiáis el color del background (2) y **verificáis que os minifica el archivo (custom.min.css) (3) en la misma carpeta**.
-
-	Ambos archivos deberían aparecer como **"modificados"** (3).
-
-	![Prueba bootstrap example](images/prueba-bootstrap-2.jpg)
-
-
-
-
 ## **Probando el entorno de la rama CSS-WORKSHOP-CRAFTER-WEB**
 Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que funciona todo bien.
 
-1. 	**Ver si se activa todo lo anterior (git, minify, live server) Y ADEMÁS EL COMPILADOR DE SASS**
+1. 	Ver si se activa todo lo anterior (git, live server) **Y ADEMÁS EL COMPILADOR DE SASS**
 
 	Tiene que salir en la barra de estado **"Watch Sass"**.
 	![Prueba web crafter](images/watch.png)

@@ -12,11 +12,11 @@ Trabajaremos con Visual Studio Code. Si ya lo tenéis instalado, solo hace falta
 
 2. 	**Instalación de las extensiones:**
 
-	Las extensiones que necesitamos son las siguientes:
-	- Sass (Robin Bentley)
-	- Ash Scss Snippets
-	- eCSStractor for VSCode
-	- Live Sass Compiler
+	Las extensiones que necesitamos son las siguientes:  
+	- Sass (Robin Bentley)  
+	- Ash Scss Snippets  
+	- eCSStractor for VSCode  
+	- Live Sass Compiler  
 	- Live Server
 
     Entro en la parte de “Extensiones” (1) y voy escribiendo los nombres de las extensiones necesarias en la caja de búsqueda (2), la selecciono (3) y le doy a “Install” (4).
