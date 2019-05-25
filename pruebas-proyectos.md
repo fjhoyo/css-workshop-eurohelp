@@ -1,5 +1,6 @@
 ## **Probando el entorno de la rama CSS-WORKSHOP-BOOTSTRAP-EXAMPLE**
-Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que funciona todo bien.
+Abrimos el proyecto desde VSCode y podemos entrar en esa rama directamente desde el editor.
+Hacéis lo siguiente para asegurarnos que funciona todo bien.
 
 1. 	**Ver si se activa el visor de git (1), el minify (2), y el live server (3)**, salen en la barra de estado.
 
