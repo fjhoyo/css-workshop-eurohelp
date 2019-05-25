@@ -26,7 +26,7 @@ Hacemos lo siguiente para probar si está todo bien:
 
 
 ## **Probando el entorno de la rama CSS-WORKSHOP-CRAFTER-WEB**
-Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que funciona todo bien.
+Entráis en dicha rama desde VSCode y hacéis lo siguiente para asegurarnos que funciona todo bien. (Si no tenéis git, abrís el proyecto correspondiente).
 
 1. 	Ver si se activa todo lo anterior (git, live server) **Y ADEMÁS EL COMPILADOR DE SASS**
 
