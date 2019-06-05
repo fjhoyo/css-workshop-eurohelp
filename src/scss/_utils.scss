@@ -1,24 +1,3 @@
-/*-------------------------------------------------*\
-    $FUNCTIONS (Before VARS to use them)
-\*-------------------------------------------------*/
-
-$base-fontsize : 16;
-
-// PIXEL TO REM: height: rem(50) -> 3.125rem;
-@function rem($px, $context:$base-fontsize) {
-  @return ($px / $context) * 1rem;
-}
-//Idem with EMs for media queries
-@function em($px, $context:$base-fontsize) {
-  @return ($px / $context) * 1em;
-}
-
-$elements: overbody, headfooter;
-
-@function z($element) {
-  @return index($elements, $element);
-}
-
 /*------------------------------------*\
     $VARIABLES
 \*------------------------------------*/
@@ -55,8 +34,17 @@ $footer-height: $header-height;
   width: $width;
 }
 
-$elements: overbody, headfooter, lightbox, top, spinner;
+/*------------------------------------*\
+    $FUNCTIONS
+\*------------------------------------*/
 
-@function z($element) {
-  @return index($elements, $element);
+$base-fontsize : 16;
+
+// PIXEL TO REM: height: rem(50) -> 3.125rem;
+@function rem($px, $context:$base-fontsize) {
+  @return ($px / $context) * 1rem;
+}
+//Idem with EMs for media queries
+@function em($px, $context:$base-fontsize) {
+  @return ($px / $context) * 1em;
 }
