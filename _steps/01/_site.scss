@@ -47,8 +47,7 @@ h3 {
 	}
 	&__wrapper {
 		@include wrapper(85%, rem(1200));
-		display: flex;
-
+		height: $header-height;
 	}
 }
 
